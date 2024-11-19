@@ -1,0 +1,11 @@
+.centered-text {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    text-align: center; /* Centers text inside the container */
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+    font-family: Arial, sans-serif; /* Optional: Use a clean font */
+    background-color: #f5f5f5; /* Optional: Add a background color */
+    color: #333; /* Optional: Set text color */
+}
